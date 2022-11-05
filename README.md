@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently exploring **new techs day by day**
 
-- 🌱 I’m working on **flutter projects**
+- 🌱 Working mainly on **flutter projects**
 
 - 💬 Ask me about **both physics and software**
 
