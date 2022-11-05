@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpitha⚡</h1>
-<img align="center"alt="Coding" width="800" height="450" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif" src="https://bestanimations.com/media/chemistry/520748437electron-singularity-animated-gif">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jemipaul123" alt="jemipaul123" /></a> </p>
+<img align="left"alt="Coding" width="800" height="450" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif">
+     <img align="right" width="800" height = "450" src="https://bestanimations.com/media/chemistry/520748437electron-singularity-animated-gif">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jemipaul123" alt="jemipaul123" /></a> </p>
 
 - 🔭 I’m currently exploring **new techs day by day**
 
