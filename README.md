@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpitha⚡</h1>
+<img alt="Coding" width="800" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jemipaul123" alt="jemipaul123" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif">
+
 
 - 🔭 I’m currently exploring **new techs day by day**
 
@@ -12,7 +13,7 @@
 
 - ⚡ Fun fact **Just code!!**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -22,4 +23,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jemipaul123&show_icons=true&locale=en&layout=compact" alt="jemipaul123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jemipaul123&" alt="jemipaul123" /></p>
-
