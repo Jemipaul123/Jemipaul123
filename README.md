@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋, I'm Arpitha⚡</h1>
+<h1 align="left">Hi, I'm Arpitha⚡</h1>
+  <img src="https://media.tenor.com/2CC_MxnlCwEAAAAM/shake-hand.gif">
 
 <img align="left" alt="Coding" width="800" height = "450" src="https://bestanimations.com/media/chemistry/520748437electron-singularity-animated-gif.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jemipaul123" alt="jemipaul123" /></a> </p>
