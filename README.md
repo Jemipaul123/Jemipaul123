@@ -1,4 +1,5 @@
-<img align="left" alt="Coding" width="1000" height = "350" src="https://bestanimations.com/media/chemistry/520748437electron-singularity-animated-gif.gif">
+[![MasterHead]("https://bestanimations.com/media/chemistry/520748437electron-singularity-animated-gif.gif")]
+
 <h1 align="center">Hi👋, I'm Arpitha⚡</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jemipaul123" alt="jemipaul123" /></a> </p>
 
