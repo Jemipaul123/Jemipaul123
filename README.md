@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **-through Linkedin**
 
-- ⚡ Fun fact **Just code!!**
+- ⚡ **Just code!!**
 
 
 
