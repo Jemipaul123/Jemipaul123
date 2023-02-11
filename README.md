@@ -1,4 +1,4 @@
-<img alt="Coding" width="1000" height="350" src="https://i.gifer.com/TnKy.mp4">
+<img alt="Coding" width="1000" height="350" src="https://i.gifer.com/TnKy.gif">
 
 <h1 align="center">Hi👋, I'm Arpitha⚡</h1>
 <h3 align="center">Computer Science UG Student</h3>
