@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently exploring **new techs day by day**
+ Bonjour!!
 
 - 🌱 Working mainly on **flutter projects**
 
