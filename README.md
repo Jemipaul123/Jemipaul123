@@ -5,7 +5,7 @@
 
 
 
- Bonjour!!
+ Me/Moi/Mi
 
 - 🌱 Working mainly on **flutter projects**
 
