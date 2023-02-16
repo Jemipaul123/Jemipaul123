@@ -5,7 +5,7 @@
 
 
 
- Me/Moi/Mi
+
 
 - 🌱 Working mainly on **flutter projects**
 
@@ -14,6 +14,8 @@
 - 📫 How to reach me **-through Linkedin**
 
 - ⚡ **Just code!!**
+
+   Have a good day!!
 
 
 
