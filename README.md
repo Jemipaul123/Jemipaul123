@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **-through Linkedin**
 
-- ⚡ **Just code!!**
+- ⚡ **I can rap 'Rap God' faster than Eminem ;)**
 
    Have a good day!!
 
