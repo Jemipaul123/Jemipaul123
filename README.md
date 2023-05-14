@@ -1,4 +1,4 @@
-<img alt="Coding" width="1000" height="350" src="https://preview.redd.it/i-am-so-frustrated-im-borderline-depressed-how-can-i-make-v0-dz5k7e7wb6ia1.gif">
+<img alt="Coding" width="1000" height="350" src="https://thumbs.gfycat.com/HospitableCloudyCod-max-1mb.gif">
 
 <h1 align="center">Hi👋, I'm Arpitha⚡</h1>
 <h3 align="center">Computer Science UG Student</h3>
