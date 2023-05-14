@@ -1,4 +1,4 @@
-<img alt="Coding" width="1000" height="350" src="https://bestanimations.com/media/chemistry/520748437electron-singularity-animated-gif.gif">
+<img alt="Coding" width="1000" height="350" src="https://preview.redd.it/i-am-so-frustrated-im-borderline-depressed-how-can-i-make-v0-dz5k7e7wb6ia1.gif">
 
 <h1 align="center">Hi👋, I'm Arpitha⚡</h1>
 <h3 align="center">Computer Science UG Student</h3>
