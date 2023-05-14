@@ -1,4 +1,4 @@
-<img alt="Coding" width="800" height="200" src="https://thumbs.gfycat.com/HospitableCloudyCod-max-1mb.gif">
+<img alt="Coding" width="1000" height="350" src="https://thumbs.gfycat.com/HospitableCloudyCod-max-1mb.gif">
 
 <h1 align="center">Hi👋, I'm Arpitha⚡</h1>
 <h3 align="center">Computer Science UG Student</h3>
