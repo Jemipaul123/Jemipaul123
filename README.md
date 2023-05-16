@@ -1,6 +1,6 @@
 <img alt="Coding" width="1000" height="350" src="https://windowscustomization.com/wp-content/uploads/2018/12/interstellar.gif">
 
-<h1 align="center">Hi👋, I'm Arpitha⚡</h1>
+<h1 align="center">Hi🙋‍♀️, I'm Arpitha✨️</h1>
 <h3 align="center">Computer Science UG Student</h3>
 
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **-through Linkedin**
 
-- ⚡Fun fact -**I can rap 'Rap God' faster than Eminem 😉**
+- ⚡Fun fact -**I can rap 'Rap God' faster than Eminem😉**
 
    Have a good day😊!!
 
