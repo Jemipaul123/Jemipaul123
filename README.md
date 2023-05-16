@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **-through Linkedin**
 
-- ⚡Fun fact -**I can rap 'Rap God' faster than Eminem ;)**
+- ⚡Fun fact -**I can rap 'Rap God' faster than Eminem 😉**
 
-   Have a good day!!
+   Have a good day😊!!
 
 
 
