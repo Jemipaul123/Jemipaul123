@@ -1,4 +1,4 @@
-<img alt="Coding" width="1000" height="350" src="https://windowscustomization.com/wp-content/uploads/2018/12/interstellar.gif">
+<img alt="Coding" width="1000" height="350" src="https://media.tenor.com/zZwhISRsAnQAAAAC/code.gif">
 
 <h1 align="center">Hi🙋‍♀️, I'm Arpitha✨️</h1>
 <h3 align="center">Computer Science UG Student</h3>
