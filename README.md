@@ -1,4 +1,4 @@
-<img align="centre" alt="Coding" width="600" height="300" src="https://media.tenor.com/zZwhISRsAnQAAAAC/code.gif" >
+<h1>     </h1><img align="centre" alt="Coding" width="600" height="300" src="https://media.tenor.com/zZwhISRsAnQAAAAC/code.gif" >
 
 <h1 align="center">Hi🙋‍♀️, I'm Arpitha✨️</h1>
 <h3 align="center">Computer Science UG Student</h3>
