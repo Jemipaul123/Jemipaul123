@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **-through Linkedin**
 
-- ⚡Fun fact -**I can rap 'Rap God' faster than Eminem😉**
+- ⚡Fun fact -**I cry when I laugh**
 
    Have a good day😊!!
 
