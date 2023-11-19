@@ -1,4 +1,4 @@
-<h1>     </h1><img align="centre" alt="Coding" width="800" height="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" >
+<h1>     </h1><img align="centre" alt="Coding" width="1000" height="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" >
 
 <h1 align="center">Hi🙋‍♀️, I'm Arpitha✨️</h1>
 <h3 align="center">Computer Science UG Student</h3>
