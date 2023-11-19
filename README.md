@@ -1,4 +1,4 @@
-<h1>     </h1><img align="centre" alt="Coding" width="1000" height="400" src="https://tenor.com/view/hello-hi-greetings-thanks-hello-world-gif-27111190" >
+<h1>     </h1><img align="centre" alt="Coding" width="1000" height="400" src="https://tenor.com/view/hello-hi-greetings-thanks-hello-world-gif-27111190.gif" >
 
 <h1 align="center">Hi🙋‍♀️, I'm Arpitha✨️</h1>
 <h3 align="center">Computer Science UG Student</h3>
